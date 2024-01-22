@@ -1,17 +1,17 @@
 Install requirements:
 
-Text_to_speach:  
+Text_to_speach :  
      pip install pyttsx3
     
-QRCode Generator:  
+QRCode Generator :  
      pip install qrcode
     
-Encrypt_Decrypt:  
+Encrypt_Decrypt :  
      pip install pybase64
     
-Translator:  
+Translator :  
      pip install googletrans==3.1.0a0
     
-Voice Record:   
+Voice Record :   
      pip install sounddevice   
      pip install scipy
