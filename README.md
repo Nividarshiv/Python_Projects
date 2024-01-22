@@ -15,3 +15,6 @@ Translator :
 Voice Record :   
      pip install sounddevice   
      pip install scipy
+
+Steganography : 
+    pip install stegano
