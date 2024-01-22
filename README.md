@@ -16,5 +16,5 @@ Voice Record :
      pip install sounddevice   
      pip install scipy
 
-Steganography : 
+Steganography :  
     pip install stegano
